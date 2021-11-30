@@ -3,13 +3,9 @@
 ![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 
-# Linajja
+# Hey, I'm Lina 🙌-
 
-_1-Linajja_
-
-This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
-
-Site published at: https://linajja.github.io/Linajja/
+I am Front-End student. Welcome to my GitHub Profile!
 
 ## Project features
 

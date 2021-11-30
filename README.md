@@ -7,7 +7,7 @@
 
 I am Front-End student. Welcome to my GitHub Profile!
 
-## Project features
+## Studying
 
 - Github pages
 - CSS

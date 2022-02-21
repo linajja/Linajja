@@ -12,6 +12,7 @@ I am Front-End student. Welcome to my GitHub Profile!
 - Github pages
 - CSS
 - HTML
+- JS
 
 
 ## Authors
